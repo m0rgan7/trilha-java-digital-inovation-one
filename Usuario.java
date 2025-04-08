@@ -1,3 +1,4 @@
+//o package nao funciona pq tem "-" mas ta salvo dessa forma na minha pasta, além disso tem algum erro que não vejo
 package Dio.edu.morgan.classesjava.dio-trilha-java-basico;
 
 public class Usuario {
