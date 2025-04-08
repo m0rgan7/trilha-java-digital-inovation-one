@@ -3,7 +3,7 @@ class MinhaClasse {
         String primeiroNome = "Morgan";
         String segundoNome = "Melo";
 
-//por que que tem esse segundo "nomeCompleto?" e pior, nao roda sem ele
+//por que que tem esse segundo "nomeCompleto?" e por que nao roda sem ele?
         String nomeCompleto = nomeCompleto (primeiroNome,segundoNome);
         System.out.println(nomeCompleto);
     }
