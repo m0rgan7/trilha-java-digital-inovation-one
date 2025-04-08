@@ -6,7 +6,7 @@ Este repositório contém os **exercícios propostos** durante o laboratório, *
 
 Aqui estão os exercícios que foram propostos no laboratório, e que foram realizados como parte do aprendizado prático:
 
-- [Exercício 1: Conta banco](ContaTerminal.java)
+- [Conta banco](ContaTerminal.java)
 
 Estes exercícios visam aplicar os conceitos teóricos abordados nas aulas.
 
@@ -14,9 +14,9 @@ Estes exercícios visam aplicar os conceitos teóricos abordados nas aulas.
 
 Nesta seção, estão os exemplos práticos que foram apresentados durante as aulas, com o objetivo de ilustrar os conceitos discutidos.
 
-- [Exemplo 1: Minha Classe](MinhaClasse.java)
-- [Exemplo 2: Usuário e SmartTV](Usuario.java)
-- [Exemplo 3: Estrutura condicional FOR](EstruturasCondicionais/ExemploFor.java)
+- [Classes](MinhaClasse.java)
+- [Exemplo 2 classes: Usuário e SmartTV](Usuario.java)
+- [Estrutura condicional FOR](EstruturasCondicionais/ExemploFor.java)
 
 Esses exemplos são essenciais para entender como os conceitos se aplicam na prática.
 
