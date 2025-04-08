@@ -18,13 +18,11 @@ Nesta seção, estão os exemplos práticos que foram apresentados durante as au
 - [Exemplo 2 classes: Usuário e SmartTV](Usuario.java)
 - [Estrutura condicional FOR](EstruturasCondicionais/ExemploFor.java)
 
-Esses exemplos são essenciais para entender como os conceitos se aplicam na prática.
 
 ## Treinamentos com Exercícios Externos
 
 Além dos exercícios propostos pelo laboratório, também farei alguns treinamentos utilizando **exercícios complementares** retirados de outras fontes. Esses exercícios têm como objetivo reforçar os aprendizados e oferecer mais desafios.
 
-Esses treinamentos são uma maneira de fixar o conhecimento e aprofundar a prática.
 
 ---
 
