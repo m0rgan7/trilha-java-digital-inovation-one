@@ -6,8 +6,8 @@ Este repositório contém os **exercícios propostos** durante o laboratório, *
 
 Aqui estão os exercícios que foram propostos no laboratório, e que foram realizados como parte do aprendizado prático:
 
-- [Conta banco](ContaTerminal.java)
-- [Controle de fluxo](ContaTerminal.java)
+- [Conta banco](Classes/ContaTerminal.java)
+- [Controle de fluxo](EstruturasCondicionais/ControleDeFluxo.java)
 
 Estes exercícios visam aplicar os conceitos teóricos abordados nas aulas.
 
@@ -15,7 +15,7 @@ Estes exercícios visam aplicar os conceitos teóricos abordados nas aulas.
 
 Nesta seção, estão os exemplos práticos que foram apresentados durante as aulas, com o objetivo de ilustrar os conceitos discutidos.
 
-- [Classes: Usuário e SmartTV](Usuario.java)
+- [Classes: Usuário e SmartTV](Classes/Usuario.java)
 - [Estrutura de repetição For](EstruturasCondicionais/ExemploFor.java)
 - [Estrutura de repetição For-Array](EstruturasCondicionais/ExemploForArray.java)
 - [Estrutura de repetição While](EstruturasCondicionais/ExemploWhile.java)
