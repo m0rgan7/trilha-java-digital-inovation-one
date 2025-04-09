@@ -14,10 +14,14 @@ Estes exercícios visam aplicar os conceitos teóricos abordados nas aulas.
 
 Nesta seção, estão os exemplos práticos que foram apresentados durante as aulas, com o objetivo de ilustrar os conceitos discutidos.
 
-- [Classes](MinhaClasse.java)
-- [Exemplo 2 classes: Usuário e SmartTV](Usuario.java)
-- [Estrutura condicional FOR](EstruturasCondicionais/ExemploFor.java)
-
+- [Classes: Usuário e SmartTV](Usuario.java)
+- [Estrutura de repetição For](EstruturasCondicionais/ExemploFor.java)
+- [Estrutura de repetição For-Array](EstruturasCondicionais/ExemploForArray.java)
+- [Estrutura de repetição While](EstruturasCondicionais/ExemploWhile.java)
+- [Estrutura de repetição Do-While](EstruturasCondicionais/ExemploDoWhile.java)
+- [Estrutura de exceção](EstruturasCondicionais/AboutMe.java)
+- [Hierarquia das exceções](EstruturasCondicionais/ExemploExcecao.java)
+- [Exceção customizada](EstruturasCondicionais/FormatadorCepExemplo.java)
 
 ## Treinamentos com Exercícios Externos
 
