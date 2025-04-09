@@ -9,8 +9,6 @@ Aqui estão os exercícios que foram propostos no laboratório, e que foram real
 - [Conta banco](Classes/ContaTerminal.java)
 - [Controle de fluxo](EstruturasCondicionais/ControleDeFluxo.java)
 
-Estes exercícios visam aplicar os conceitos teóricos abordados nas aulas.
-
 ## Exemplos Dados em Aula
 
 Nesta seção, estão os exemplos práticos que foram apresentados durante as aulas, com o objetivo de ilustrar os conceitos discutidos.
@@ -27,7 +25,6 @@ Nesta seção, estão os exemplos práticos que foram apresentados durante as au
 ## Treinamentos com Exercícios Externos
 
 Além dos exercícios propostos pelo laboratório, também farei alguns treinamentos utilizando **exercícios complementares** retirados de outras fontes. Esses exercícios têm como objetivo reforçar os aprendizados e oferecer mais desafios.
-
 
 ---
 
