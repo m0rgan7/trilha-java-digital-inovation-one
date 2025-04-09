@@ -2,7 +2,7 @@ public class FormatadorCepExemplo {
     
     public static void main(String[] args) {
         try{
-        String cepFormatado = formatarCep("5545555");
+        String cepFormatado = formatarCep("555555");
         System.out.println(cepFormatado);
     } 
     catch (CepInvalidException e){
@@ -35,5 +35,3 @@ public class FormatadorCepExemplo {
  * 
  * toda vez que tem conexao com outro da erro, a ide nao deve ta configurada direito, olha isso depois
  */
-
- 
