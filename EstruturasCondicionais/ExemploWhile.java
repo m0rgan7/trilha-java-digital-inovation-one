@@ -1,10 +1,12 @@
-import java.util.current.ThreadLocalRandom;
+import java.util.concurrent.ThreadLocalRandom;
+
 public class ExemploWhile {
     public static void main(String[] args) {
         
         double mesada = 50;
         while(mesada>0){
-            double valorDoce = valorAleatório();
+            double valorDoce = ThreadLocalRandom.current().nextDouble(0,50);
+            //o valorAleatório nao tava funcionando pra mim então modifiquei
             if (valorDoce > mesada)
             valorDoce = mesada;
 
@@ -20,5 +22,6 @@ public class ExemploWhile {
          * comando que será executado ate que a condiçao booleana se torne falsa
          * }
          */
+
     }
 }
