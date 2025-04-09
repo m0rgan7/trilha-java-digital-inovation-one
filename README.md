@@ -7,6 +7,7 @@ Este repositório contém os **exercícios propostos** durante o laboratório, *
 Aqui estão os exercícios que foram propostos no laboratório, e que foram realizados como parte do aprendizado prático:
 
 - [Conta banco](ContaTerminal.java)
+- [Controle de fluxo](ContaTerminal.java)
 
 Estes exercícios visam aplicar os conceitos teóricos abordados nas aulas.
 
