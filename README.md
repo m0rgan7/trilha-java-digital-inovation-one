@@ -16,7 +16,7 @@ Além dos exercícios propostos pelo laboratório, também fiz alguns treinament
 **Treinamentos programação-imperativa **  
   - [Exercícios]()
 
-**Treinamentos programação-imperativa **  
+**Treinamentos programação-orientada-a-objetos **  
 -   [Exercícios]()
 
 ## Área de Desafios
