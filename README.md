@@ -25,7 +25,8 @@ Esta seção é dedicada a desafios extras que visam colocar em prática os conh
 
 **Desafios programação-imperativa **  
   - [C++]()
-  - [Python]()  
+  - [Python]()
+  - [JavaScript]()  
 
 ## Como Contribuir
 
