@@ -6,6 +6,7 @@ Este repositório contém os **exercícios propostos** durante o laboratório, *
 
 Aqui estão os exercícios que foram propostos no laboratório, e que foram realizados como parte do aprendizado prático:
 
+**Laboratório da programação-estruturada **  
 - [Conta banco](Classes/ContaTerminal.java)
 - [Controle de fluxo](EstruturasCondicionais/ControleDeFluxo.java)
 
@@ -13,7 +14,7 @@ Aqui estão os exercícios que foram propostos no laboratório, e que foram real
 
 Além dos exercícios propostos pelo laboratório, também fiz alguns treinamentos utilizando **exercícios complementares** retirados de outras fontes. Esses exercícios têm como objetivo reforçar os aprendizados e oferecer mais desafios.
 
-**Treinamentos programação-imperativa **  
+**Treinamentos programação-estruturada **  
   - [Exercícios]()
 
 **Treinamentos programação-orientada-a-objetos **  
@@ -23,9 +24,10 @@ Além dos exercícios propostos pelo laboratório, também fiz alguns treinament
 
 Esta seção é dedicada a desafios extras que visam colocar em prática os conhecimentos adquiridos de forma mais aprofundada. Um dos objetivos aqui é resolver o **mesmo problema em diferentes linguagens de programação**, comparando abordagens, sintaxe e recursos específicos de cada uma.
 
-**Desafios programação-imperativa **  
+**Desafios programação-estruturada **  
   - [C++]()
-  - [Python]()  
+  - [Python]()
+  - [JavaScript]()  
 
 ## Como Contribuir
 
