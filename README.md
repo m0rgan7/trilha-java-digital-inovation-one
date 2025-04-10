@@ -9,24 +9,23 @@ Aqui estão os exercícios que foram propostos no laboratório, e que foram real
 - [Conta banco](Classes/ContaTerminal.java)
 - [Controle de fluxo](EstruturasCondicionais/ControleDeFluxo.java)
 
-## Exemplos Dados em Aula
-
-Nesta seção, estão os exemplos práticos que foram apresentados durante as aulas, com o objetivo de ilustrar os conceitos discutidos.
-
-- [Classes: Usuário e SmartTV](Classes/Usuario.java)
-- [Estrutura de repetição For](EstruturasCondicionais/ExemploFor.java)
-- [Estrutura de repetição For-Array](EstruturasCondicionais/ExemploForArray.java)
-- [Estrutura de repetição While](EstruturasCondicionais/ExemploWhile.java)
-- [Estrutura de repetição Do-While](EstruturasCondicionais/ExemploDoWhile.java)
-- [Estrutura de exceção](EstruturasCondicionais/AboutMe.java)
-- [Hierarquia das exceções](EstruturasCondicionais/ExemploExcecao.java)
-- [Exceção customizada](EstruturasCondicionais/FormatadorCepExemplo.java)
-
 ## Treinamentos com Exercícios Externos
 
-Além dos exercícios propostos pelo laboratório, também farei alguns treinamentos utilizando **exercícios complementares** retirados de outras fontes. Esses exercícios têm como objetivo reforçar os aprendizados e oferecer mais desafios.
+Além dos exercícios propostos pelo laboratório, também fiz alguns treinamentos utilizando **exercícios complementares** retirados de outras fontes. Esses exercícios têm como objetivo reforçar os aprendizados e oferecer mais desafios.
 
----
+**Treinamentos programação-imperativa **  
+  - [Exercícios]()
+
+**Treinamentos programação-imperativa **  
+-   [Exercícios]()
+
+## Área de Desafios
+
+Esta seção é dedicada a desafios extras que visam colocar em prática os conhecimentos adquiridos de forma mais aprofundada. Um dos objetivos aqui é resolver o **mesmo problema em diferentes linguagens de programação**, comparando abordagens, sintaxe e recursos específicos de cada uma.
+
+**Desafios programação-imperativa **  
+  - [C++]()
+  - [Python]()  
 
 ## Como Contribuir
 
