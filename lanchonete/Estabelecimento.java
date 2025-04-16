@@ -1,7 +1,7 @@
 package lanchonete;
 
 import lanchonete.atendimento.Atendente;
-import lanchonete.atendimentocliente.*;
+import lanchonete.atendimentocliente.*;  //por que tem esse "*" aqui?
 import lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
