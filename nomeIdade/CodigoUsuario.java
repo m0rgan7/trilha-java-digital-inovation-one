@@ -14,8 +14,12 @@ public class CodigoUsuario {
     int idade = input.nextInt();
     nomeIdade.setIdade(idade);
 
-    System.out.println("O aluno " + nomeIdade.getNome() + " tem " + nomeIdade.getIdade());
+    System.out.println("Oi " + nomeIdade.getNome() + " você tem " + nomeIdade.getIdade() + " anos de idade.");
 
     input.close();
   }   
 }
+/* so compila manualmente no terminal, tem que colocar:
+* cd nomeIdade
+* javac Usuario.java
+* java CodigoUsuario.java */
