@@ -15,7 +15,7 @@ Aqui estão os exercícios que foram propostos no laboratório, e que foram real
 Além dos exercícios propostos pelo laboratório, também fiz alguns treinamentos utilizando **exercícios complementares** retirados de outras fontes. Esses exercícios têm como objetivo reforçar os aprendizados e oferecer mais desafios.
 
 **Treinamentos programação-estruturada **  
-  - [Exercícios]()
+  - [Exercícios](programação-estruturada)
 
 **Treinamentos programação-orientada-a-objetos **  
 -   [Exercícios]()
