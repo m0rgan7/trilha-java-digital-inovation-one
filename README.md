@@ -9,6 +9,7 @@ Aqui estão os exercícios que foram propostos no laboratório, e que foram real
 **Laboratório da programação-estruturada **  
 - [Conta banco](programação-estruturada/Classes/ContaTerminal.java)
 - [Controle de fluxo](programação-estruturada/EstruturasCondicionais/ControleDeFluxo.java)
+- [Diagramação de classes do Iphone](DiagramaçãoComponentesIphone/uml.png)
 
 ## Treinamentos com Exercícios Externos
 
