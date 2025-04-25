@@ -6,7 +6,7 @@ public class Pet {
 
     private boolean clean;
 
-    public pet (String name){
+    public Pet (String name){
         this.name = name;
         this.clean = false;
     }
@@ -15,11 +15,11 @@ public class Pet {
         return name;
     }
 
-    public boolen isClean(){
+    public boolean isClean(){
         return clean;
     }
 
-    public void setClean(boolean){
+    public void setClean (boolean clean){
         this.clean = clean;
     }
 }
