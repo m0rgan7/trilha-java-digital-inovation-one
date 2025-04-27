@@ -1,4 +1,4 @@
-package estruturaControle.calculoImc;
+package ProgramacaOrientadaObjetos.estruturaControle.calculoImc;
 import java.util.Scanner;
 
 public class CalculoImc {

@@ -8,7 +8,7 @@ public non-sealed class USClock extends Clock {
         return periodIndicator;
     }
 
-    public void serAfterMidday(){
+    public void setAfterMidday(){
         this.periodIndicator = "PM";
     }
 
@@ -28,9 +28,23 @@ public non-sealed class USClock extends Clock {
         }
     }
 
+    public String getTime(){
+        return super.getTime() + "  " + this.periodIndicator;
+    }
 
     Clock convert(final Clock clock){
-        return null;
+        this.minute = clock.getMinute();
+        this.second = clock.getSecond();
+
+        switch (clock){
+            case USClock usclock ->{
+                this.hour = usClock.getHour();
+                this.periodIndicator = usClock.getPeriodIndicator;
+            }
+
+            case BRLClock brlClock -> this.setHour (brlClock.getHour());
+        }
+        return this;
     }  
 
 }

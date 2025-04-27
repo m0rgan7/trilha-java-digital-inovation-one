@@ -1,4 +1,4 @@
-package lanchonete;
+package ProgramacaOrientadaObjetos.lanchonete;
 
 import lanchonete.atendimento.Atendente;
 import lanchonete.atendimentocliente.*;  //por que tem esse "*" aqui?
