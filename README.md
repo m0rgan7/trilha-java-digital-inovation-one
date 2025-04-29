@@ -11,6 +11,7 @@ Aqui estão os exercícios que foram propostos no laboratório, e que foram real
 - [Controle de fluxo](programação-estruturada/EstruturasCondicionais/ControleDeFluxo.java)
 - [Diagramação de classes do Iphone](DiagramaçãoComponentesIphone/uml.png)
 - [Banco Digital](ProgramacaOrientadaObjetos/BancoDigital)
+- [Sudoku](sudoku)
 
 ## Treinamentos com Exercícios Externos
 
