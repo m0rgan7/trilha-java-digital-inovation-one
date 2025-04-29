@@ -6,7 +6,7 @@ public class Menu {
 
     private final static Scanner scanner = new Scanner (System.in);
 
-    private final static WhashingMachine washingMachine = new WashingMachine();
+    private final static WashingMachine washingMachine = new WashingMachine();
     public static void main(String[] args) {
         var option = -1;
 

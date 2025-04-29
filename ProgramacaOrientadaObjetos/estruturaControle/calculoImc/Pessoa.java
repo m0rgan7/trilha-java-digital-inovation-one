@@ -1,4 +1,4 @@
-package ProgramacaOrientadaObjetos.estruturaControle.calculoImc;
+package estruturaControle.calculoImc;
 
 public class Pessoa {
     private double altura;

@@ -1,4 +1,4 @@
-package ProgramacaOrientadaObjetos.herancaPolimorfismo;
+package herancaPolimorfismo;
 
 //tem algo errado com meu sealed e non sealed, tava funcionando bem sem ele antes  
 public static sealed abstract class Clock permits BRLClock, USClock {

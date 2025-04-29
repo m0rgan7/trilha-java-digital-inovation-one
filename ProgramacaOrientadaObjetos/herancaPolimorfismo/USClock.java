@@ -1,4 +1,4 @@
-package ProgramacaOrientadaObjetos.herancaPolimorfismo;
+package herancaPolimorfismo;
 
 public non-sealed class USClock extends Clock {
 

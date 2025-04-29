@@ -1,4 +1,4 @@
-package ProgramacaOrientedaObjetos.herancaPolimorfismo.User;
+package herancaPolimorfismo.User;
 
 public class ViewClock{
     public static void main (String [] args){

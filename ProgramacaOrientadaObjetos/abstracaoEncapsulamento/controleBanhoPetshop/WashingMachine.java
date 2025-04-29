@@ -1,6 +1,6 @@
 package abstracaoEncapsulamento.controleBanhoPetshop;
 
-public class WhashingMachine {
+public class WashingMachine {
 
     private boolean clean = true;
     private int water = 30;

@@ -1,4 +1,4 @@
-package ProgramacaOrientadaObjetos.lanchonete.atendimento;
+package lanchonete.atendimento;
 
 public class Atendente {
     public void servirMesa(){
