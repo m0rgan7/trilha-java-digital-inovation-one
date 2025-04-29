@@ -10,8 +10,8 @@ Aqui estão os exercícios que foram propostos no laboratório, e que foram real
 - [Conta banco](programação-estruturada/Classes/ContaTerminal.java)
 - [Controle de fluxo](programação-estruturada/EstruturasCondicionais/ControleDeFluxo.java)
 - [Diagramação de classes do Iphone](DiagramaçãoComponentesIphone/uml.png)
-- [Banco Digital](ProgramacaOrientadaObjetos/BancoDigital)
-- [Sudoku](ProgramacaOrientadaObjetos/sudoku)
+- [Banco Digital](Programacao-Orientada-Objetos/BancoDigital)
+- [Sudoku](Programacao-Orientada-Objetos/sudoku)
 
 ## Treinamentos com Exercícios Externos
 
