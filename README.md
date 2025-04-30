@@ -7,8 +7,8 @@ Este repositório contém os **exercícios propostos** durante o laboratório, *
 Aqui estão os exercícios que foram propostos no laboratório, e que foram realizados como parte do aprendizado prático:
 
 **Laboratório da programação-estruturada **  
-- [Conta banco](Programação-Estruturada/Classes/ContaTerminal.java)
-- [Controle de fluxo](Programação-Estruturada/EstruturasCondicionais/ControleDeFluxo.java)
+- [Conta banco](programação-estruturada/Classes/ContaTerminal.java)
+- [Controle de fluxo](programação-estruturada/EstruturasCondicionais/ControleDeFluxo.java)
 - [Diagramação de classes do Iphone](DiagramaçãoComponentesIphone/uml.png)
 - [Banco Digital](Programacao-Orientada-Objetos/BancoDigital)
 - [Sudoku](Programacao-Orientada-Objetos/sudoku)
