@@ -1,11 +1,11 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive",
-    "java.compile.nullAnalysis.mode": "automatic",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "jdk.jdkhome": "c:\\Program Files\\Java\\jdk-17",
     "java.configuration.runtimes": [
-        {
-            "name": "JavaSE-17",
-            "path": "C:\\Arquivos de Programas\\Java\\jdk-17.0.12",
-            "default": true
-        }
-    ]
+
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
