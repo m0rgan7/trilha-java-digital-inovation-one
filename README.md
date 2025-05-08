@@ -12,6 +12,7 @@ Aqui estão os exercícios que foram propostos no laboratório, e que foram real
 - [Diagramação de classes do Iphone](DiagramaçãoComponentesIphone/uml.png)
 - [Banco Digital](Programacao-Orientada-Objetos/BancoDigital)
 - [Sudoku](Programacao-Orientada-Objetos/sudoku)
+- [Buscador de CEP](Desenvolvimento-de-API's/lab-padroes-projeto-spring)
 
 ## Treinamentos com Exercícios Externos
 
