@@ -1,23 +1,23 @@
-# 📘 Treinamento Estrurudas de Repetição em java
+# Treinamento Estruturas de Repetição em java
 
 > Conjunto de exercícios para treinar estruturas de controle em Java: `if`, `for`, `while` e `do-while`.  
 > Resolva cada exercício escolhendo a estrutura de repetição ou condicional mais adequada.
 
 ---
 
-## 🔁 Repetições e Condicionais
+## Repetições e Condicionais
 
-### 🧠 Exercício 1 — Média de Notas
+### Exercício 1 — Média de Notas
 Leia notas de alunos até que o usuário decida parar. Depois, calcule e mostre a média das notas inseridas.
 
 ---
 
-### 🧠 Exercício 2 — Tabuada Personalizada
+### Exercício 2 — Tabuada Personalizada
 Peça ao usuário um número de 1 a 10 e exiba a tabuada completa desse número (de 1 a 10).
 
 ---
 
-### 🧠 Exercício 3 — Classificação por Idade
+### Exercício 3 — Classificação por Idade
 Peça a idade do usuário e classifique como:  
 - Criança (0-12)  
 - Adolescente (13-17)  
