@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class ClassificacaoPorIdade{
+    public static void main (String [] args){
+        Scanner input = new Scanner;
+            System.out.println ("Digite a sua idade: ");
+            int idade = input.nextInt();
+
+            if (idade<=12){
+              System.out.println("criança");
+            }
+            else if (idade<=17){
+              System.out.println("adolescente");
+              //pq teoricamente ja passou pelo 12 e for descartado ne e nao consigo pensar em fazer de outra forma que nao prejudique as proximas sentenças
+            }
+            else if (idade<=59){
+              System.out.println("adulto");
+            }
+            else{
+              System.out.println("idoso");
+            }
+         scanner.close();
+  }
+}
