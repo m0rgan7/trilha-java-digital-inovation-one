@@ -75,6 +75,6 @@ Peça um número inteiro `n` e imprima os `n` primeiros números ímpares em ord
 
 - Seu desafio é **escolher a melhor estrutura** para resolver cada problema.
 - Use comentários no código para explicar sua escolha, se quiser.
-- Caso não lembre como é a estrutura acesse: [Readme for, do while e while](programação-estruturada)
+- Caso não lembre como é a estrutura acesse: [Readme for, do while e while](programacao-estruturada)
 
 ---
