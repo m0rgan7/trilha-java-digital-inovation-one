@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class MediaNotas{
     public static void main (String [] args){
-        Scanner input = new Scanner;
+        Scanner input = new Scanner (System.in;
 
         do {
             System.out.println ("Digite a notas que deseja calcular a média: ");
@@ -16,7 +16,7 @@ public class MediaNotas{
 
         } while (continuar = "sim");
   //esqueci de calcular a media e acho que a estrutura ta toda errada, nao tenho ideia de como que criam novas variaveis "notas" automaticamente
-        scanner.close();
+        input.close();
         }
   }
 }
