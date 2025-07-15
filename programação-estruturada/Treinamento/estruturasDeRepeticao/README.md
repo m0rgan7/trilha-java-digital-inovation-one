@@ -73,9 +73,8 @@ Peça um número inteiro `n` e imprima os `n` primeiros números ímpares em ord
 
 ## ✅ Instruções
 
-- Crie um novo projeto Java para cada exercício ou implemente todos em um menu principal.
-- Não está especificado qual estrutura usar propositalmente.
 - Seu desafio é **escolher a melhor estrutura** para resolver cada problema.
 - Use comentários no código para explicar sua escolha, se quiser.
+- Caso não lembre como é a estrutura acesse: [Readme for, do while e while](programação-estruturada)
 
 ---
