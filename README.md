@@ -31,7 +31,6 @@ Esta seção é dedicada a desafios extras que visam colocar em prática os conh
 **Desafios programação-estruturada **  
   - [C++]()
   - [Python]()
-  - [JavaScript]()  
 
 ## Como Contribuir
 
