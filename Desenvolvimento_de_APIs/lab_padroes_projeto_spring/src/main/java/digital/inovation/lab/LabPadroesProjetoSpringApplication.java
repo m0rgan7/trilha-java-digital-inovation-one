@@ -1,4 +1,4 @@
-package Desenvolvimento_de_APIs.lab_padroes_projeto_spring.src.main.java.digital.inovation.lab;
+package digital.inovation.lab;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
